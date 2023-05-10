@@ -7,7 +7,11 @@ const Home = () => {
   return (
     <>
         <Headers/>
+        <br />
+        <hr />
         <Main/>
+        <br />
+        <hr />
         <Footer/>
     </>
   )
