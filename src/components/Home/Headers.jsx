@@ -1,5 +1,5 @@
 import React from "react";
-import '../../css/Home/Headers.css'
+import "../../css/Home/Headers.css";
 import imgReact from "../../assets/perfil.jpg";
 const Headers = () => {
   return (
@@ -9,7 +9,7 @@ const Headers = () => {
           <img className="img-perfil" src={imgReact} alt="PerfilImg" />
         </div>
         <div className="caja2">
-          <h1 className="h1">Diego Flores Aguirres</h1>
+          <h1 className="h1">Flores Aguirres Diego</h1>
         </div>
       </div>
     </>
